@@ -15,7 +15,7 @@ Thank You!
 
 ![DEFAULT](https://user-images.githubusercontent.com/63375443/123545595-80f0db00-d761-11eb-90fa-064292f92e7a.png)
 
-![image](https://user-images.githubusercontent.com/63375443/123608099-2316ce80-d807-11eb-96e2-1ad155a6010b.png)
+<img width="612" alt="controlled" src="https://user-images.githubusercontent.com/63375443/123608582-8b65b000-d807-11eb-8545-504875f376cb.png">
 
 
 # Creating DataBase using phpMyAdmin:
